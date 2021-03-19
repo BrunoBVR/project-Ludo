@@ -72,3 +72,5 @@ Some of the options include: `preset` (user defined positions), `random`, `circl
 
 ![image](dash-working.gif)
 *Example usage of dash app for the `ludo-dash-v01.py` script.*
+
+**[Link](https://ludo-dash-app.herokuapp.com/) to deployed app.**
